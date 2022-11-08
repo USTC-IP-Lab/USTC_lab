@@ -1,0 +1,33 @@
+name: Deploy Hugo 
+
+on:
+  push:
+    branches:
+      - dev   # dev 更新触发
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Checkout
+          uses: actions/checkout@v2
+          with:
+            submodules: true
+            fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: v0.87.0-B0C541E4+extended
+
+      - name: Build 
+        run: hugo
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.PERSONAL_TOKEN }} # personal_token 这里新建一个 https://github.com/settings/tokens
+          EXTERNAL_REPOSITORY: USTC-IP-Lab/USTC-IP-Lab.GitHub.io
+          PUBLISH_BRANCH: main  # 推送到当前 gh-pages 分支
+          PUBLISH_DIR: ./public  # hugo 生成到 public 作为根目录
+          commit_message: ${{ github.event.head_commit.message }}
