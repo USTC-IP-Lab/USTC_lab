@@ -7,7 +7,7 @@ on:
 
 jobs:
   build-deploy:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -18,7 +18,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: v0.87.0-B0C541E4+extended
+          hugo-version: "latest"
 
       - name: Build 
         run: hugo
