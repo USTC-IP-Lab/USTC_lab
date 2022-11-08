@@ -19,7 +19,7 @@ bio:
 interests:
 - Multimodal Machine Learning
 - Pose Estimation / Tracking
-- Wireless Sensing
+- Wireless Sensing 
 
 education:
   courses:
