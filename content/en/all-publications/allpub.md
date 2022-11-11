@@ -298,5 +298,8 @@ Contactless Blood Pressure Monitoring with mmWave Radar.
 GLOBECOM, 2022"
 - "Chunyang Xie, Dongheng Zhang, Zhi Wu, Cong Yu, Yang Hu, Qibin Sun, Yan Chen. Accurate Human Pose Estimation using RF Signals. MMSP, 2022 (Best Paper Runner Up)"
 - "Cong Yu, Dongheng Zhang, Chunyang Xie, Zhi Lu, Yang Hu, Houqiang Li, Qibin Sun, Yan Chen. WiFi-Based Human Pose Image Generation. MMSP, 2022"
+- "Ying He, Dongheng Zhang, Qibin Sun and Yan Chen. 3-D Imaging Under Low-Rank Constraint With Radio Signals. MMSP, 2022"
 - "Pengcheng Huang, Dongheng Zhang, Ruixu Geng, Yan Chen. Continuous User Authentication using WiFi.  APSIPA ASC, 2022"
+- "Renjie Wen, Dongheng Zhang, Jinbo Chen, Qibin Sun, and Yan Chen. Pushing the Limit of Radar-Based Vibration Measurement With Deep Learning. PIMRC, 2022"
+- "Ying He, Dongheng Zhang, and Yan Chen. Reconfigurable intelligent surfaces aided WiFi imaging. APSIPA, 2022"
 ---
