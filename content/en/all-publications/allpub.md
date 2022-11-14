@@ -289,18 +289,15 @@ conference:
 - 'Yufei Tian, Hong Hu, Yuejiang Li, H. Vicky Zhao, Yan Chen, CAN-SIN: A Cross-Layer Heterogeneous Academic Network with Semantic Information, APSIPA ASC, 2020 (Best Paper Award)'
 - Dongheng Zhang, Xiong Li, Yan Chen, Pushing the Limit of Phase Offset for Contactless Sensing Using Commodity WiFi, ICASSP, 2021
 - Zhi Lu, Yang Hu, Yan Chen, Bing Zeng, Personalized Outfit Recommendation With Learnable Anchors, CVPR, 2021
-- "Yadong Li, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun and Yan Chen. DI-Gesture: Domain-Independent and Real-Time Gesture Recognition with Millimeter-Wave Signals. GLOBECOM, 2022"
-- "Jinbo Chen, Dongheng Zhang, Dong Zhang, Qibin Sun and Yan Chen. MMCamera: an imaging modality for future RF-based physiological sensing. MOBICOM, 2022"
-- "You Ran, Dongheng Zhang, Jinbo Chen, Yang Hu, Yan Chen.
-Contactless Blood Pressure Monitoring with mmWave Radar.
-GLOBECOM, 2022"
-- "Ruiyuan Song, Dongheng Zhang, Zhi Wu, Cong Yu, Chunyang Xie, Shuai Yang, Yang Hu, and Yan Chen. RF-URL: unsupervised representation learning for RF sensing. MOBICOM, 2022.
-"
-- "Chunyang Xie, Dongheng Zhang, Zhi Wu, Cong Yu, Yang Hu, Qibin Sun, Yan Chen. Accurate Human Pose Estimation using RF Signals. MMSP, 2022 (Best Paper Runner Up)"
+- "Renjie Wen, Dongheng Zhang, Jinbo Chen, Qibin Sun, and Yan Chen. Pushing the Limit of Radar-Based Vibration Measurement With Deep Learning. PIMRC, 2022"
+- "Wenxuan Li, Dongheng Zhang,Yadong Li, Zhi Wu, Jinbo Chen, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen.REAL-TIME FALL DETECTION USING MMWAVE RADAR. ICASSP, 2022"
 - "Cong Yu, Dongheng Zhang, Chunyang Xie, Zhi Lu, Yang Hu, Houqiang Li, Qibin Sun, Yan Chen. WiFi-Based Human Pose Image Generation. MMSP, 2022"
 - "Ying He, Dongheng Zhang, Qibin Sun and Yan Chen. 3-D Imaging Under Low-Rank Constraint With Radio Signals. MMSP, 2022"
-- "Pengcheng Huang, Dongheng Zhang, Ruixu Geng, Yan Chen. Continuous User Authentication using WiFi.  APSIPA ASC, 2022"
-- "Renjie Wen, Dongheng Zhang, Jinbo Chen, Qibin Sun, and Yan Chen. Pushing the Limit of Radar-Based Vibration Measurement With Deep Learning. PIMRC, 2022"
+- "Chunyang Xie, Dongheng Zhang, Zhi Wu, Cong Yu, Yang Hu, Qibin Sun, Yan Chen. Accurate Human Pose Estimation using RF Signals. MMSP, 2022 (Best Paper Runner Up)"
 - "Ying He, Dongheng Zhang, and Yan Chen. Reconfigurable intelligent surfaces aided WiFi imaging. APSIPA, 2022"
-- "Wenxuan Li, Dongheng Zhang,Yadong Li, Zhi Wu, Jinbo Chen, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen.REAL-TIME FALL DETECTION USING MMWAVE RADAR. ICASSP, 2022"
+- "Pengcheng Huang, Dongheng Zhang, Ruixu Geng, Yan Chen. Continuous User Authentication using WiFi.  APSIPA ASC, 2022"
+- "Yadong Li, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun and Yan Chen. DI-Gesture: Domain-Independent and Real-Time Gesture Recognition with Millimeter-Wave Signals. GLOBECOM, 2022"
+- "You Ran, Dongheng Zhang, Jinbo Chen, Yang Hu, Yan Chen. Contactless Blood Pressure Monitoring with mmWave Radar. GLOBECOM, 2022"
+- "Ruiyuan Song, Dongheng Zhang, Zhi Wu, Cong Yu, Chunyang Xie, Shuai Yang, Yang Hu, and Yan Chen. RF-URL: unsupervised representation learning for RF sensing. MOBICOM, 2022"
+- "Jinbo Chen, Dongheng Zhang, Dong Zhang, Qibin Sun and Yan Chen. MMCamera: an imaging modality for future RF-based physiological sensing. MOBICOM, 2022"
 ---

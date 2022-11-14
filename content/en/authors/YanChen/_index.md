@@ -21,7 +21,7 @@ organizations:
 bio: 
 
 interests:
-- Multmodal Sensing and Imaging
+- Multimodal Sensing and Imaging
 - Multimedia Signal Processing
 - Wireless Multimedia
 - Digital Health
