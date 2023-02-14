@@ -1,7 +1,7 @@
 ---
 # Display name
 title: "Zhi Lu"
-weight: 3
+weight: 9
 # Username (this should match the folder name and the name on publications)
 authors:
   - "ZhiLu"
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Student
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Students
+  - Faculty
 ---
 
 Zhi Lu received B.S. and MPhil. Pdegree from the University of Electronic Science and Technology of China. He is currently pursuing the Ph.D. degree at the School of Information and Communication Engineering, University of Electronic Science and Technology of China. He is supervised by Prof Bing Zeng and co-supervised by Prof. Yan Chen and Prof. Yang Hu. His current research interests include wireless sensing, and fashion recommendation.

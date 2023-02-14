@@ -119,16 +119,18 @@ journal:
 - 'Ying He, Dongheng Zhang, Yan Chen, High-Resolution WiFi Imaging with Reconfigurable Intelligent Surfaces, to appear in IEEE IoTJ'
 - 'Yadong Li, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen, Towards Domain-Independent and Real-Time Gesture Recognition Using mmWave Signal, to appear in IEEE TMC'
 - 'Jinbo Chen, Dongheng Zhang, Zhi Wu, Fang Zhou, Qibin Sun, Yan Chen, Contactless Electrocardiogram Monitoring with Millimeter Wave Radar, to appear in IEEE TMC'
-- 'Xiaohan Xu, Dongheng Zhang, Jinbo Chen, Zhi Wu, Qibin Sun, Yan Chen, Contactless GSR Sensing Using mmWave Radar, to appear in IEEE Sensors Journal'
+- 'Xiaohan Xu, Dongheng Zhang, Jinbo Chen, Zhi Wu, Qibin Sun, Yan Chen, Contactless GSR Sensing Using mmWave Radar, IEEE Sensors Journal'
+
+- 'Dongheng Zhang, Jia Meng, Jian Zhang, Xinzhe Deng, Shouhong Ding, Man Zhou, Qian Wang, Qi Li, Yan Chen, SonarGuard: Ultrasonic Face Liveness Detection on Mobile Devices, to appear in TCSVT'
+- 'Shuai Yang, Dongheng Zhang, Ruiyuan Song, Pengfei Yin, Yan Chen, Multiple WiFi Access Points Co-Localization, to appear in IEEE TMC'
+- 'Ying He, Dongheng Zhang, Yan Chen, 3D Radio Imaging Under Low-Rank Constraint, to appear in IEEE TCSVT'
+- 'Ganling Zhang, Dongheng Zhang, Ying He, Jinbo Chen, Fang Zhou, Yan Chen, Multi-Person Passive WiFi Indoor Localization with Intelligent Reflecting Surface, to appear in IEEE TWC'
 - "Cong Yu, Dongheng Zhang, Chunyang Xie, Zhi Lu, Yang Hu, Houqiang Li, Yan Chen, WiFi-Imaging: Generate Human Pose Images via WiFi Signals, submitted to IoTJ"
-- "Dongheng Zhang, Jia Meng, Jian Zhang, Xinzhe Deng, Shouhong Ding, Man Zhou, Qian Wang, Qi Li, Yan Chen, SonarGuard: Ultrasonic Face Liveness Detection on Mobile Devices, submitted to TCSVT"
-- "Ying He, Dongheng Zhang, Yan Chen, 3D Radio Imaging Under Low-Rank Constraint, submitted to TCSVT"
-- "Bin-Bin Zhang, Dongheng Zhang, Yadong Li, Yang Hu, Yan Chen, Unsupervised Domain Adaptation for Device-free Gesture Recognition, submitted to IoTJ"
-- "Ganling Zhang, Dongheng Zhang, Ying He, Jinbo Chen, Fang Zhou, Yan Chen, Multi-Person Passive WiFi Indoor Localization with Intelligent Reflecting Surface, submitted to TWC"
-- "Shuai Yang, Dongheng Zhang, Ruiyuan Song, Pengfei Yin, Yan Chen, Multiple WiFi Access Points Co-Localization, submitted to TMC"
-- "Cong Yu, Dongheng Zhang, Zhi Wu, Yang Hu, Yan Chen, RFPose-OT: RF-Based 3D Human Pose Estimation Using Optimal Transport, submitted to Frontiers of Information Technology & Electronic Engineering"
 - "Chunyang Xie, Dongheng Zhang, Zhi Wu, Cong Yu, Yang Hu, Yan Chen, RPM: RF-based Pose Machines, submitted to TMM"
 - "Shuai Yang, Xiaolei Shang, Dongheng Zhang, Yan Chen, Iterative Interference Mitigation for Automotive Radar, submitted to IEEE Transactions on Aerospace and Electronic Systems"
+- "Cong Yu, Dongheng Zhang, Zhi Wu, Chunyang Xie, Zhi Lu, Yang Hu, Yan Chen, MobiRFPose: Portable RF-Based 3D Human Pose Camera, submitted to TMM"
+- "Binquan Wang, Dongheng Zhang, Yang Hu, Yan Chen, Cross-Domain WiFi-based Human Activity Recognition Using Few-shot Learning, submitted to TVT"
+- "Chunyang Xie, Dongheng Zhang, Zhi Wu, Cong Yu, Yang Hu, Yan Chen, RPM 2.0: RF-based Pose Machines for Multi-Person 3D Pose Estimation, submitted to TCSVT"
 
 
   
