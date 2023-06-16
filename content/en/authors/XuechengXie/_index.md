@@ -1,12 +1,13 @@
+
 ---
 # Display name
 title: Xuecheng Xie
-weight: 68
+weight: 102
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master student 
+role: Phd student 
 
 # Organizations/Affiliations
 organizations:
@@ -37,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:xxc1997@mail.ustc.edu.cn'
+  link: 'mailto:xuecheng@mail.ustc.edu.cn'
 
 #- icon: github
 #  icon_pack: fab
@@ -57,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Ph.D. Students
 ---
 
 Hello! This is Xuecheng Xie. I am a Master student at the School of Cyberspace Science and Technology,  University of Science and Technology of China (USTC). I am supervised by Prof. Yan Chen. My current research interests include wireless sensing, digital health.
