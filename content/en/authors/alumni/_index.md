@@ -85,7 +85,10 @@ information:
   year: 2023
   dgree: PhD
   now: Qianyuan Research Institute
-
+- name: YingHe
+  year: 2023
+  dgree: PhD
+  now: Southwest China Research Institute of Electronic Equipment
 
 user_groups:
 - Alumni
