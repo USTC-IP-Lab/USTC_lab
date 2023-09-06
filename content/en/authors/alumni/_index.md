@@ -89,7 +89,10 @@ information:
   year: 2023
   dgree: PhD
   now: Southwest China Research Institute of Electronic Equipment
-
+- name: RenjieWen
+  year: 2023
+  dgree: Master
+  now: tplink
 user_groups:
 - Alumni
 ---
