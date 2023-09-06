@@ -6,7 +6,7 @@ weight: 63
 superuser: false
 
 # Role/position
-role: Master student
+role: Ph.D. Students
 
 # Organizations/Affiliations
 organizations:
@@ -22,9 +22,12 @@ interests:
 
 education:
   courses:
+  - course: Ph.D. in Cyberspace Security
+    institution: University of Science and Technology of China
+    year: 2023 - now  
   - course: M.S. student in Cyberspace Security
     institution: University of Science and Technology of China
-    year: 2021 - now
+    year: 2021 - 2023
   - course: B.S. in School of public health
     institution: WuHan University
     year: 2016-2021
@@ -62,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Ph.D. Students
 ---
 
 Hello! This is Haoyu Wang(王浩宇). I have received B.S. from Wuhan University. My current research interests include wireless sensing and digital health.

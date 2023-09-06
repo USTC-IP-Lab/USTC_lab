@@ -6,7 +6,7 @@ weight: 66
 superuser: false
 
 # Role/position
-role: Master student
+role: Ph.D. Students
 
 # Organizations/Affiliations
 organizations:
@@ -22,9 +22,12 @@ interests:
 
 education:
   courses:
+  - course: Ph.D. in Cyberspace Security
+    institution: University of Science and Technology of China
+    year: 2023 - now  
   - course: M.S. student in Cyberspace Security
     institution: University of Science and Technology of China
-    year: 2021 - now
+    year: 2021 - 2023
   - course: B.S. in Information Security
     institution: China University of Mining and Technology
     year: 2017-2021
@@ -62,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Ph.D. Students
 ---
 
 Hello! This is Guanzhong Wang (王冠中). I am a M.S. student at at the School of Cyberspace Security, University of  Science and Technology of China (USTC).I received B.S. degree from the China University of Mining and Technology (CUMT) in 2021.

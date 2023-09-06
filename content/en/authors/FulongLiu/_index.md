@@ -1,12 +1,16 @@
 ---
 # Display name
-title: Qi Chen
-weight: 69
+title: "Fulong Liu"
+weight: 104
+# Username (this should match the folder name and the name on publications)
+authors:
+- "fulongliu"
+
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position
-role: Ph.D. Students
+# Role/position (e.g., Professor of Artificial Intelligence)
+role: Master student of Cyberspace Security
 
 # Organizations/Affiliations
 organizations:
@@ -14,42 +18,30 @@ organizations:
   url: "https://www.ustc.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
+# List each interest with a dash
 interests:
-- Robotics
-- Signal Processing
+- Wireless Sensing
+- Deep Learning
 
 education:
   courses:
-  - course: Ph.D. in Cyberspace Security
-    institution: University of Science and Technology of China
-    year: 2023 - now
   - course: Master in Cyberspace Security
     institution: University of Science and Technology of China
-    year: 2021 - 2023
-  - course: B.S. in Mathematics
-    institution: Anhui University
-    year: 2017-2021
-
+    year: 2023 - now
+  - course: B.S. in Computer Science
+    institution: Tianjin University
+    year: 2019 - 2023
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:chenqi777@mail.ustc.edu.cn'
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/7qichen
+  link: 'mailto:fulongliu23@mail.ustc.edu.cn'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,9 +57,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ph.D. Students
+- Master Students
 ---
-
-Hello! This is Qi Chen (陈祺). I am a Ph.D. student at the School of Cyberspace Science and Technology,  University of Science and Technology of China (USTC).
-
-I am fortunate to be advised by [Prof. Yan Chen]. My research interest lies in Robotics and Signal Processing.

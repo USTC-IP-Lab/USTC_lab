@@ -73,9 +73,20 @@ information:
   year: 2017
   dgree: Bachelor
   now: CUHK-Shenzhen
+- name: Liping Tang
+  year: 2017
+  dgree: Bachelor
+  now: CUHK-Shenzhen
+- name: Cong Yu
+  year: 2023
+  dgree: PhD
+  now: China Academy of Engineering Physics
+- name: Chunyang Xie
+  year: 2023
+  dgree: PhD
+  now: Qianyuan Research Institute
 
 
-  
 user_groups:
 - Alumni
 ---

@@ -1,22 +1,21 @@
 ---
 # Display name
-title: "Cong Yu"
-weight: 21
+title: "Zhenzhen Cao"
+weight: 109
 # Username (this should match the folder name and the name on publications)
 authors:
-- "congyu"
+- "zhenzhencao"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-# role: PhD student of Artificial Intelligence
-role: Alumni
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Electronic Science and Technology of China
-  url: "https://www.uestc.edu.cn/"
+- name: University of Science and Technology of China
+  url: "https://www.ustc.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -24,17 +23,16 @@ bio:
 # List each interest with a dash
 interests:
 - Wireless Sensing
-- Image Synthesis
-- Adversarial Learning
+- Deep Learning
 
 education:
   courses:
-  - course: Ph.D. in Artificial Intelligence
-    institution: University of Electronic Science and Technology of China
-    year: 2019 - now
-  - course: B.S. in Electronic Engineering
-    institution: University of Electronic Science and Technology of China
-    year: 2015 -2019
+  - course: M.S. in Cyberspace Security
+    institution: University of Science and Technology of China
+    year: 2023 - now
+  - course: Network Engineering
+    institution: Dalian Maritime University
+    year: 2019 -2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -46,13 +44,7 @@ social:
 #   link: 'https://congyucn.github.io/'
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:congyu@std.uestc.edu.cn'
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=idrU8wYAAAAJ&hl=zh-CN
-- icon: github
-  icon_pack: fab
-  link: https://github.com/congyucn
+  link: 'zhenzhen1003@mail.ustc.edu.cn'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,7 +52,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "zhenzhen1003@mail.ustc.edu.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -68,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Master Students
 ---
 
-Cong Yu received B.S. degree from the University of Electronic Science and Technology of China, Chengdu, China, in 2019. He is currently pursuing the Ph.D. degree at the School of Information and Communication Engineering, University of Electronic Science and Technology of China, Chengdu, China. He is supervised by Prof. Yan Chen and Prof. Yang Hu. His current research interests include wireless sensing, image synthesis, and adversarial learning.
+Hello!  This is Zhenzhen Cao.  I am a M.S. student at the School of Cyberspace Security, University of Science and Technology of China (USTC). I have received B.S. degree from Dalian Maritime University（DMU） in 2023. I am fortunate to be advised by Prof. Yan Chen.  My research interest lies in Deep Learning and Wireless Sensing.

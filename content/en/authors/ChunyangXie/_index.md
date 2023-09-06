@@ -6,8 +6,8 @@ weight: 2
 superuser: true
 
 # Role/position
-role: PhD student of Artificial Intelligence
-
+# role: PhD student of Artificial Intelligence
+role: Alumni
 # Organizations/Affiliations
 organizations:
 - name: University of Electronic Science and Technology of China
@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ph.D. Students
+- Alumni
 ---
 
 Hello! This is Chunyang Xie (解春阳). I am a Ph.D. student at at the School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC).I received B.S. degree from the University of Electronic Science and Technology of China (UESTC) in 2018.

@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Master student
+role: Ph.D. Students
 
 # Organizations/Affiliations
 organizations:
@@ -28,9 +28,12 @@ interests:
 
 education:
   courses:
+  - course: Ph.D. in Cyberspace Security
+    institution: University of Science and Technology of China
+    year: 2023 - now
   - course: M.S. in Computer Technology 
     institution: University of Science and Technology of China
-    year: 2021 - Now
+    year: 2021 - 2023
   - course: B.S. in Automation (Excellent Engineer Program)
     institution: University of Science and Technology of Beijing
     year: 2017 - 2021
@@ -61,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Ph.D. Students
 ---
 
 Tianyu Zhang received B.S. degree from the University of Science and Technology of Beijing in 2021.  He is currently pursuing the M.S. degree at the University of Science and Technology of China, Hefei, China. He is supervised by Prof. Yan Chen. His current research interests include wireless sensing. 

@@ -8,7 +8,7 @@ weight: 43
 superuser: false
 
 # Role/position
-role: Master student
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Alumni
 ---
 
  Renjie Wen received B.S. degree from the South China University of Technology. He is currently pursuing the M.S. degree at the School of Cyberspace Security, University of Science and Technology of China, Hefei, China.

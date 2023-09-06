@@ -6,7 +6,8 @@ weight: 1
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD student of Artificial Intelligence
+# role: PhD student of Artificial Intelligence
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -56,6 +57,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ph.D. Students
+- Alumni
 ---
 YingHe received the B.S. degree from the University of Electronic Science and Technology of China, Chengdu, China, in 2017. She is currently pursuing the Ph.D. degree at the School of Information and Communication Engineering, University of Electronic Science and Technology of China, Chengdu, China. She is supervised by Prof. Yan Chen. Her current research interests include radio vision, computational imaging, array signal processing
