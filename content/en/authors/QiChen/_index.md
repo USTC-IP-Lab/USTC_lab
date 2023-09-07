@@ -17,8 +17,9 @@ organizations:
 bio: 
 
 interests:
-- Robotics
+- Wireless Sensing
 - Signal Processing
+- Deep Learning
 
 education:
   courses:
