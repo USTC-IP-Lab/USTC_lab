@@ -41,9 +41,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:hanqin_gong@163.com'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ghq_ustc
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/ghq_ustc
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.com.hk/citations?user=1t-Lr8gAAAAJ
