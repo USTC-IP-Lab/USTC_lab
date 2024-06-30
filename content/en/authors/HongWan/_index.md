@@ -67,4 +67,4 @@ user_groups:
 
 Hello! This is Hong Wan. I am a Master Studentst at the School of Cyberspace Security, University of  Science and Technology of China (USTC).I received B.S. degree from Xidian university（XDU） in 2022.
 
-I am fortunate to be advised by [Prof. Yan Chen](https://chenyanustc.github.io/). My research interest lies in Pose Estimation / Tracking and Wireless Sensing / DINOv2 / RCNN /ssl_.
+I am fortunate to be advised by [Prof. Yan Chen](https://chenyanustc.github.io/). My research interest lies in Pose Estimation / Tracking and Wireless Sensing / DINOv2 / RCNN /ssl_/ fuck.
