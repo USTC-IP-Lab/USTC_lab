@@ -67,5 +67,4 @@ user_groups:
 - Ph.D. Students
 ---
 
-Tianyu Zhang received B.S. degree from the University of Science and Technology of Beijing in 2021.  He is currently pursuing the M.S. degree at the University of Science and Technology of China, Hefei, China. He is supervised by Prof. Yan Chen. His current research interests include wireless sensing. 
-
+Tianyu Zhang received B.S. degree from the University of Science and Technology of Beijing in 2021. He is currently pursuing the Ph.D degree at the University of Science and Technology of China, Hefei, China. His current research interests include signal processing, wireless localization and sensing.

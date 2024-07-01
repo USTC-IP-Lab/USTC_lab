@@ -6,7 +6,7 @@ weight: 73
 superuser: true
 
 # Role/position
-role: Master student
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Alumni
 ---
 
 Hello! This is Jian Xu (徐健). I am a Master Studentst at  the School of Cyberspace Security, University of  Science and Technology of China (USTC).I received B.S. degree from Wenzhou university（WZU） in 2021.

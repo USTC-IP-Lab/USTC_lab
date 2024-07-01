@@ -6,7 +6,7 @@ weight: 85
 superuser: false
 
 # Role/position
-role: Master student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -18,16 +18,19 @@ bio:
 
 interests:
 - Wireless Sensing and Security
-- Multimodal Sensing and Imaging
-- 3D Imaging of Wireless Signals
-- Pose Estimation
+- Wireless Multimedia 
+- Through-Wall Sensing and Imaging
+- Human Pose Estimation
 - Digital Health
 
 education:
   courses:
+  - course: Ph.D., Cyberspace Security
+    institution: University of Science and Technology of China(USTC)
+    year: 2024 – now
   - course: Master, Cyberspace Security
     institution: University of Science and Technology of China(USTC)
-    year: 2022 - now
+    year: 2022 - 2024
   - course: B.E., Communication Engineering
     institution: Zhengzhou University(ZZU)
     year: 2018 - 2022
@@ -65,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Ph.D. Students
 ---
 
-Hanqin Gong(龚汉钦) received bachelor degree from Zhengzhou University, Zhengzhou, China, in 2022. He is currently pursuing the Master degree at the School of Cyberspace Security, University of Science and Technology of China, Hefei, China. He is supervised by Prof. Yan Chen. His current research interests mainly include Wireless Sensing and Security, Multimodal Sensing and Imaging, 3D Imaging of Wireless Signals.
+Hanqin Gong(龚汉钦) received bachelor degree from Zhengzhou University, Zhengzhou, China, in 2022. He is currently pursuing the Ph.D. degree at the School of Cyberspace Security, University of Science and Technology of China, Hefei, China. He is supervised by Prof. Yan Chen. His current research interests mainly include Wireless Sensing and Security, Through-Wall Sensing and Imaging, Human Pose Estimation and Digital Health.

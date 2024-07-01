@@ -6,7 +6,7 @@ weight: 99
 superuser: false
 
 # Role/position
-role: Master student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -23,7 +23,7 @@ interests:
 
 education:
   courses:
-  - course: M.S. in Cyberspace Security
+  - course: PhD in Cyberspace Security
     institution: University of Science and Technology of China
     year: 2022 - now
   - course: B.S. in Cyberspace Security
@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Ph.D. Students
 ---
 
-Pengcheng Huang received B.S degree from University of Electronic Science and Technology of China (UESTC) in 2022. He is currently pursuing the Master degree at the School of Cyberspace Security, University of Science and Technology of China (USTC).  His current research interests include wireless sensing, deep learning and  multimodal signal processing. 
+Pengcheng Huang received B.S degree from University of Electronic Science and Technology of China (UESTC) in 2022. He is currently pursuing the PhD degree at the School of Cyberspace Security, University of Science and Technology of China (USTC).  His current research interests include wireless sensing, deep learning and  multimodal signal processing. 

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Master Students
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -57,6 +57,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students 
+- Alumni
 ---
 This is Jinli Zhang(张金利). I am a Master student at the School of Cyberspace Science and Technology, University of Science and Technology of China (USTC). I received B.S. degree from Anhui University, Hefei, China, in 2021. I am supervised by Prof. Yan Chen. My current research interests include wireless sensing, emotion monitoring.

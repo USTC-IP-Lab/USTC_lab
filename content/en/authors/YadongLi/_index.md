@@ -7,7 +7,7 @@ weight: 74
 superuser: false
 
 # Role/position
-role: Master student
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -62,6 +62,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Alumni
 ---
 Yadong Li received B.S. degree from the Zhengzhou University,  Zhengzhou, China, in 2021.  He is currently pursuing the M.S. degree at the School of Cyberspace Security, University of Science and Technology of China, Hefei, China. He is supervised by Prof. Yan Chen. His current research interests include millimeter wave imaging and sensing.

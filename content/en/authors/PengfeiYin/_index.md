@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Master student of Cyberspace Science and Technology
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Alumni
 ---
 
 Hello! This is Pengfei Yin(尹鹏飞).   I am a Master student at the School of Cyberspace Science and Technology,  University of Science and Technology of China (USTC). I received B.S. degree from the University of Science and Technology of China, Hefei, China, in 2021. I am supervised by Prof. Yan Chen. My current research interests include wireless sensing, indoor localization.

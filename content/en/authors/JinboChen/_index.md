@@ -6,7 +6,7 @@ weight: 23
 superuser: false
 
 # Role/position
-role: PhD student
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -23,6 +23,9 @@ interests:
 
 education:
   courses:
+  - course: Ph.D. in Cyberspace Science and Technology 
+    institution: University of Electronic Science and Technology of China
+    year: 2020 - 2024
   - course: M.S. in Electrical Engineering
     institution: Washington University in St.Louis
     year: 2014 - 2016
@@ -48,6 +51,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/kablueybo
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=zh-CN&user=j9EVSPYAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ph.D. Students
+- Faculty
 ---
 
-Jinbo Chen received B.S. from Hefei University of Technology in 2014 and M.S. from Washington University in St.Louis in 2016. He is currently pursuing the Ph.D. degree at the School of Cyberspace Science and Technology, University of Science and Technology of China, Hefei, China. He is supervised by Prof. Yan Chen and Prof. Qibin Sun. His current research interests include wireless sensing, digital health.
+Jinbo Chen received B.S. from Hefei University of Technology in 2014, M.S. from Washington University in St.Louis in 2016 and PhD degree from the University of Science and Technology of China (USTC) in 2024. He is currently a Postdoc researcher at University of Science and Technology of China. His current research interests include wireless sensing, digital health.

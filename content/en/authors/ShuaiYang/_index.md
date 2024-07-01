@@ -6,7 +6,7 @@ weight: 22
 superuser: false
 
 # Role/position
-role: PhD student
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -24,7 +24,7 @@ education:
   courses:
   - course: PhD in Cyberspace Science and Technology
     institution: University of Science and Technology of China
-    year: 2019 - now
+    year: 2019 - 2024
   - course: B.S. in Automation
     institution: University of Science and Technology of China
     year: 2015-2019
@@ -64,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ph.D. Students
+- Faculty
 ---
 
-Shuai Yang received B.S. from University of Science and Technology of China in 2019. He is currently pursuing the Ph.D. degree at the School of Cyberspace Science and Technology, University of Science and Technology of China, Hefei, China. He is supervised by Prof. Yan Chen and Prof. Qibin Sun. His current research interests include wireless sensing, signal processing.
+Shuai Yang received PhD from University of Science and Technology of China in 2024. He is currently a Postdoc researcher at University of Science and Technology of China. His current research interests include wireless sensing, signal processing.

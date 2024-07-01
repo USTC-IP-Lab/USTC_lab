@@ -6,7 +6,7 @@ weight: 9
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Associate Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -72,5 +72,4 @@ user_groups:
 
 ---
 
-Dongheng Zhang received B.S and Ph.D degree both from University of Electronic Science and Technology of China (UESTC) in 2017 and 2021, respectively. He is currently a Postdoc
-researcher at University of Science and Technology of China. 
+Dongheng Zhang received B.S and Ph.D degree both from University of Electronic Science and Technology of China (UESTC) in 2017 and 2021, respectively. He is currently a Associate Researcher at University of Science and Technology of China. 

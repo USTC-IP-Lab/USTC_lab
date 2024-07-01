@@ -1,7 +1,7 @@
 ---
 # Display name
 title: "Bin-Bin Zhang"
-weight: 5
+weight: 21
 # Username (this should match the folder name and the name on publications)
 authors:
 - "Bin-Bin Zhang"
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Ph.D student
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -30,7 +30,7 @@ education:
   courses:
   - course: Ph.D. in Cyberspace Science and Technology 
     institution: University of Science and Technology of China
-    year: 2018 - Now
+    year: 2018 - 2024
   - course: B.S. in Electronic Science and Technology
     institution: Anhui University
     year: 2010 -2014
@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ph.D. Students
+- Faculty
 ---
-Hello, This is Bin-Bin Zhang(张宾宾).Welcome to my homepage! I am currently pursuing the Ph.D. degree at the School of Cyberspace Science and Technology, University of Science and Technology of China(USTC), Hefei, China. I am fortunate to be advised by [Prof. Yan Chen](https://chenyanustc.github.io/). My current research interests include wireless sensing, deep learning and domain adaptation.
+Bin-Bin Zhang received PhD degree from the University of Science and Technology of China (USTC) in 2024. He is currently a Postdoc researcher at University of Science and Technology of China. His research interests include wireless sensing, signal processing, and machine learning.
 

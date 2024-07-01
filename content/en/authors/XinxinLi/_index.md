@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Rendao Wang
-weight: 71
+title: Xinxin Li
+weight: 100
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Alumni
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -17,17 +17,20 @@ organizations:
 bio: 
 
 interests:
-- Artificial Intelligence
-- Signal Processing
+- Wireless Sensing
+- Indoor Positioning
 
 education:
   courses:
-  - course: Master in Communication Engineering
+  - course: PhD in Cyberspace Security
     institution: University of Science and Technology of China
-    year: 2021 - now
-  - course: B.S. in Electronic Information Engineering
-    institution: Anhui University
-    year: 2017-2021
+    year: 2024 - now
+  - course: M.S. in Computer Technology
+    institution: University of Science and Technology of China
+    year: 2021 - 2024
+  - course: B.S. in Information Security
+    institution: Guilin University of Electronic Technology
+    year: 2017 - 2021
 
 
 # Social/Academic Networking
@@ -37,16 +40,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:wrdao0203@mail.ustc.edu.cn'
+  link: 'mailto:lixinxin88@mail.ustc.edu.cn'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-#  link:
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com.hk/citations?user=1t-Lr8gAAAAJ
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,9 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Ph.D. Students
 ---
 
-Hello! This is Rendao Wang (王任道). I am a Master student at the Institute of Advanced Technology,  University of Science and Technology of China (USTC).
-
-I am fortunate to be advised by [Prof. Yan Chen]. My research interest lies in Artificial Intelligence and Signal Processing.
+Xinxin Li received B.S. degree from Guilin University of Electronic Technology in 2021. She is currently pursuing the Ph.D. degree at the University of Science and Technology of China, Hefei, China. She is supervised by Prof. Yan Chen and Prof. Qibin Sun. Her current research interests include wireless sensing.

@@ -6,7 +6,7 @@ weight: 91
 superuser: false
 
 # Role/position
-role: Master student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ interests:
 
 education:
   courses:
-  - course: M.S. student in Cyberspace Security
+  - course: PhD student in Cyberspace Security
     institution: University of Science and Technology of China
     year: 2022 - now
   - course: B.Eng in School of Electronic Information Engineering
@@ -61,7 +61,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Ph.D. Students
 ---
 
 Hello! This is Yuqin Yuan(袁雨琴). I have received B.Eng from Northeastern University. My current research interest is Multi-target tracking.

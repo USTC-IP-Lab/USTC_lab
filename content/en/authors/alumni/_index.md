@@ -1,6 +1,58 @@
 ---
 # Display alumni information
 information:
+- name: You Ran
+  year: 2024
+  dgree: Master 
+  now: HUAWEI
+- name: Pengfei Yin
+  year: 2024
+  dgree: Master 
+  now: Huaibei Municipal Government
+- name: Shijie Han
+  year: 2024
+  dgree: Master 
+  now: Cyberspace Administration of Anhui
+- name: Yun Wu
+  year: 2024
+  dgree: Master 
+  now: ZTE
+- name: Jinli Zhang
+  year: 2024
+  dgree: Master 
+  now: CETC
+- name: Rendao Wang
+  year: 2024
+  dgree: Master 
+  now: ICBC
+- name: Jian Xu
+  year: 2024
+  dgree: Master 
+  now: Quzhou Municipal Bureau of Statistics
+- name: Yadong Li
+  year: 2024
+  dgree: Master 
+  now: University of Washington
+- name: Liquan Fang
+  year: 2024
+  dgree: Master 
+  now: Institute of Artficial Intelligence, Hefei Comprehensive National Science Center
+- name: Cong Yu
+  year: 2023
+  dgree: PhD
+  now: China Academy of Engineering Physics
+- name: Chunyang Xie
+  year: 2023
+  dgree: PhD
+  now: Qianyuan Research Institute
+- name: YingHe
+  year: 2023
+  dgree: PhD
+  now: Southwest China Research Institute of Electronic Equipment
+- name: RenjieWen
+  year: 2023
+  dgree: Master
+  now: tplink
 - name: Zihao Yue
   year: 2022
   dgree: Master
@@ -73,26 +125,6 @@ information:
   year: 2017
   dgree: Bachelor
   now: CUHK-Shenzhen
-- name: Liping Tang
-  year: 2017
-  dgree: Bachelor
-  now: CUHK-Shenzhen
-- name: Cong Yu
-  year: 2023
-  dgree: PhD
-  now: China Academy of Engineering Physics
-- name: Chunyang Xie
-  year: 2023
-  dgree: PhD
-  now: Qianyuan Research Institute
-- name: YingHe
-  year: 2023
-  dgree: PhD
-  now: Southwest China Research Institute of Electronic Equipment
-- name: RenjieWen
-  year: 2023
-  dgree: Master
-  now: tplink
 user_groups:
 - Alumni
 ---

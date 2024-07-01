@@ -6,7 +6,7 @@ weight: 96
 superuser: true
 
 # Role/position
-role: Master student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ interests:
 
 education:
   courses:
-  - course: Master in Cyberspace Security
+  - course: PhD  in Cyberspace Security
     institution: University of  Science and Technology of China
     year: 2022 - now
   - course: B.S. in Information Security
@@ -53,9 +53,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Ph.D. Students
 ---
 
-Hello! This is Xu Wang(王旭). I am a Master Studentst at  the School of Cyberspace Security, University of  Science and Technology of China (USTC).
+Hello! This is Xu Wang(王旭). I am a PhD Studentst at  the School of Cyberspace Security, University of  Science and Technology of China (USTC).
 
 I am fortunate to be advised by [Prof. Yan Chen](https://chenyanustc.github.io/). My research interest lies in Indoor Intrusion Detection and Wireless Sensing.

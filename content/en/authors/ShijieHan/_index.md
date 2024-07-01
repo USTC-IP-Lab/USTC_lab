@@ -6,7 +6,7 @@ weight: 64
 superuser: true
 
 # Role/position
-role: Master student
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -61,7 +61,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Alumni
 ---
 
 This is Shijie Han,a Master Students of Artificial Intelligence in USTC, My research interest lies in Signal Processing.

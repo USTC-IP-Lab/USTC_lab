@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Master student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: M.S. in Communication Engineering 
+  - course: PhD in Communication Engineering 
     institution: University of Science and Technology of China
     year: 2022- Now
   - course: B.S. in Electronic Information Engineering
@@ -59,7 +59,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Ph.D. Students
 ---
 
 Guixin Xu received B.S. degree from Zhejiang Sci-tech University in 2022.  He is currently pursuing the M.S. degree at the University of Science and Technology of China, Hefei, China. He is supervised by Prof. Yan Chen and Prof. Qibin Sun. His current research interests include wireless sensing, digital health.

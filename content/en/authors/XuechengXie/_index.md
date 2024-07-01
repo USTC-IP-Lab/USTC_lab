@@ -2,7 +2,7 @@
 ---
 # Display name
 title: Xuecheng Xie
-weight: 102
+weight: 71
 # Is this the primary user of the site?
 superuser: false
 

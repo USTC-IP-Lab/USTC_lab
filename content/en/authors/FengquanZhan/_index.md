@@ -6,7 +6,7 @@ weight: 94
 superuser: false
 
 # Role/position
-role: Master student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ interests:
 
 education:
   courses:
-  - course: Master in Cyberspace Security
+  - course: PhD in Cyberspace Security
     institution: University of Science and Technology of China
     year: 2022 - now
   - course: B.S. in Communication Engineering
@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Ph.D. Students
 ---
 
-Hello! This is Zhan Fengquan (詹丰全). I am a Master student at the School of Cyberspace Science and Technology,  University of Science and Technology of China.  I am supervised by Prof. Yan Chen. My research interest lies in wireless sensing and indoor localization.
+Hello! This is Zhan Fengquan (詹丰全). I am a PhD student at the School of Cyberspace Science and Technology,  University of Science and Technology of China.  I am supervised by Prof. Yan Chen. My research interest lies in wireless sensing and indoor localization.
