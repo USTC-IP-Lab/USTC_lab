@@ -70,4 +70,4 @@ user_groups:
 - Master Students
 ---
 
-Yi Wang(王怡) received B.S. degree from Nankai University in 2023. She is currently pursuing the Master degree at the School of Information Science and Technology, University of Science and Technology of China. She is supervised by Prof. Yang Hu. Her current research interests include non-line-of-sight imaging, computer vision and signal processing.
+Yi Wang (王怡) received B.S. degree from Nankai University in 2023. She is currently pursuing the Master degree at the School of Information Science and Technology, University of Science and Technology of China. She is supervised by Prof. Yang Hu. Her current research interests include non-line-of-sight imaging, computer vision and signal processing.
