@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Yixing Tan"
+title: "Jinzhong Deng"
 weight: 123
 # Username (this should match the folder name and the name on publications)
 authors:
-- "YixingTan"
+- "JinzhongDeng"
 
 # Is this the primary user of the site?
 superuser: false
