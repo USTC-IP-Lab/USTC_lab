@@ -320,6 +320,11 @@ conference:
 - 'Xu Wang, Dongheng Zhang, Fengquan Zhan, Xuecheng Xie, Pengcheng Huang, Yang Hu, Yan Chen. RoFi: Robust WiFi Intrusion Detection via Distribution Matching. ICASSP, 2024.'
 - 'Haoyu Wang, Jinbo Chen, Dongheng Zhang, Zhi Lu, Changwei Wu, Yang Hu, Qibin Sun, Yan Chen. Contactless Radar Heart Rate Variability Monitoring Via Deep Spatio-Temporal Modeling. ICASSP, 2024.'
 - 'Hanqin Gong, Dongheng Zhang, Jinbo Chen, Yadong Li, Guixin Xu, Yuqin Yuan, Yang Hu, Yan Chen. Enabling Orientation-Free Mmwave-Based Vital Sign Sensing with Multi-Domain Signal Analysis. ICASSP, 2024'
+- 'Yadong Li, Dongheng Zhang, Ruixu Geng, Jincheng Wu, Yang Hu, Qibin Sun, Yan Chen. IFNet: Imaging and Focusing Network for Handheld mmWave Devices. ICASSP, 2024'
+- 'Jincheng Wu, Ruixu Geng, Yadong Li, Dongheng Zhang, Zhi Lu, Yang Hu, Yan Chen. Diffradar:High-Quality Mmwave Radar Perception With Diffusion Probabilistic Model. ICASSP, 2024'
+- 'Jiamu Li; Dongheng Zhang; Qi Chen; Yadong Li; Jianyang Wang; Wenxuan Li; Yang Hu; Qibin Sun; Yan Chen. SIMFALL: A Data Generator for RF-Based Fall Detection. ICASSP, 2024'
+- 'Shuai Yang, Dongheng Zhang, Jinbo Chen, Fang Zhou, Guanzhong Wang, Qibin Sun, Yan Chen. Automotive Radar Interference Mitigation Via SINR Maximization. ICASSP, 2024'
+- 'Pengfei Yin, Dongheng Zhang, Tianyu Zhang, Shuai Yang, Guanzhong Wang, Yang Hu, Yan Chen. AutoCali: Enhancing AoA-based Indoor Localization through Automatic Phase Calibration. ICASSP, 2024'
 - 'Zhi Wu, Dongheng Zhang, Zixin Shang, Yuqin Yuan, Hanqin Gong, Binquan Wang, Zhi Lu, Yadong Li, Yang Hu, Qibin Sun, Yan Chen. Learning-Based Tracking-before-Detect for RF-Based Unconstrained Indoor Human Tracking. IJCAI, 2024'
 - 'Qian Liang, Yan Chen, Yang Hu, Continual Learning for Remote Physiological Measurement: Minimize Forgetting and Simplify Inference，ECCV, 2024'
 ---
