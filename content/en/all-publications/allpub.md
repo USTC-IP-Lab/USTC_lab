@@ -136,6 +136,8 @@ journal:
 - 'Xuecheng Xie, Dongheng Zhang, Yadong Li, Yang Hu, Qibin Sun, Yan Chen, Robust WiFi Respiration Sensing in the Presence of Interfering Individual, to appear in IEEE TMC'
 - 'Shuai Yang, Dongheng Zhang, Yadong Li, Yang Hu, Qibin Sun, Yan Chen, iSense: Enabling Radar Sensing Under Mutual Device Interference, to appear in IEEE TMC'
 - 'Ganlin Zhang, Dongheng Zhang, Hongyu Deng, Yun Wu, Fengquan Zhan, Yan Chen, Practical Passive Indoor Localization with Intelligent Reflecting Surface, to appear in IEEE TMC'
+- 'Jianyang Wang, Dongheng Zhang, Binbin Zhang, Jinbo Chen, Yang Hu, Yan Chen, RF-GymCare: Introducing Respiratory Prior for RF Sensing in Gym Environments, to appear in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)'
+- 'Jiamu Li, Dongheng Zhang, Zhi Wu, Cong Yu, Yadong Li, Qi Chen, Yang Hu, Qibin Sun, Yan Chen, SBRF: A Fine-Grained Radar Signal Generator for Human Sensing, to appear in IEEE TMC'
 
   
 book:
