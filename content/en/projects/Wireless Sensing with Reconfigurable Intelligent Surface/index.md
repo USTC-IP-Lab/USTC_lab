@@ -36,6 +36,7 @@ image:
 slides: ""
 ---
 
-Indoor positioning is of great significance for common applications, such as elderly health, intrusion detection. However, insufficient distance resolution caused by the narrow-band characterization of WiFi signal makes it difficult to achieve accurate positioning. The emergence of Reconfigurable Intelligent Surface (RIS) makes it possible to solve this problem. The RIS can be regarded as a phase shifter, and focus the incident waves on certain location. We currently use RIS to improve the accuracy of positioning with WiFi signals and solve the near-far effect in multi-person scenarios.
+Indoor positioning is of great significance for common applications, such as elderly health, intrusion detection. However, insufficient distance resolution caused by the narrow-band characterization of WiFi signal makes it difficult to achieve accurate positioning. The emergence of Reconfigurable Intelligent Surface (RIS) makes it possible to solve this problem. The RIS can be regarded as a phase shifter, and focus the incident waves on certain location. We currently use RIS to improve the accuracy of positioning with WiFi signals and solve the near-far effect in multi-person scenarios.  
+
 
 
