@@ -10,7 +10,7 @@ categories: []
 date: 2021-08-07T19:30:35+08:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+# external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -22,11 +22,14 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- icon: github
+  icon_pack: fab
+  link: https://github.com/muming72
+- name: Follow
+  url: https://twitter.com
+  icon_pack: fab
+  icon: twitter
 
 
 # Slides (optional).
