@@ -3,7 +3,7 @@
 
 title: "Fashion Recommendation and Synthesis"
 summary: ""
-authors: ["Zhi Lu", "Cong Yu"]
+# authors: ["Zhi Lu", "Cong Yu"]
 tags: ["Fashion Recommendation", "Compute Vision"]
 categories: []
 date: 2021-08-15

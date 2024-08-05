@@ -38,7 +38,7 @@ module:
 ############################
 
 enableGitInfo: false
-summaryLength: 30
+summaryLength: 10
 paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
@@ -69,10 +69,10 @@ imaging:
   anchor: smart
 timeout: 600000
 taxonomies:
-  tag: tags
+  # tag: tags
   category: categories
   publication_type: publication_types
-  author: authors
+  # author: authors
 related:
   threshold: 80
   includeNewer: true

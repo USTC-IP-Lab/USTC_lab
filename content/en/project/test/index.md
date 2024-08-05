@@ -4,12 +4,12 @@
 title: "Test"
 summary: ""
 authors: [Dongheng Zhang]
-tags: [object track ]
+# tags: [object track ]
 categories: []
 date: 2021-08-07T19:45:56+08:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+# external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -21,16 +21,16 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: Follow
-  url: https://twitter.com
-  icon_pack: fab
-  icon: twitter
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
 
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:ChunyangXie@std.uestc.edu.cn'
+# social:
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:ChunyangXie@std.uestc.edu.cn'
 
 url_code: ""
 url_pdf: ""
