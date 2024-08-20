@@ -31,6 +31,7 @@ design:
 #   icon_pack: fas
 #   icon: arrow-circle-right
 ---
+- Dongheng Zhang attends ICASSP 2024 and gives a talk supported by  Special Funds for Basic Scientific Research of Central Universities. [Follow the link to learn more](http://staff.ustc.edu.cn/~dongheng/news/).
 
 - The Intelligent Perception Lab has several openings (Postdocs, Associate Researchers, Researchers) in the area of multimodal intelligent perception. The candidate should have a strong track record in signal processing, wireless communications, computer vision, or artificial intelligence. Interested candidates can contact me at [eecyan AT ustc.edu.cn](mailto:eecyan@ustc.edu.cn)
 
