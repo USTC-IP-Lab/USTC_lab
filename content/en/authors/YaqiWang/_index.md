@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Hongwei Zhou"
+title: "Yaqi Wang"
 weight: 136
 # Username (this should match the folder name and the name on publications)
 authors:
-- "Hongwei Zhou"
+- "Yaqi Wang"
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ustc.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hongwei Zhou (周宏伟) received B.S. degree from Hebei University of Technology, Tianjin, China, in 2024. He is currently pursuing the Master degree at the School of Cyberspace Security, University of Science and Technology of China (USTC). His current research interests include signal processing, wireless network and multimodal machine learning. To find out more, please visit his blog  https://hellooqilin.github.io/me.
+bio: Yaqi Wang
 
 # List each interest with a dash
 interests:
