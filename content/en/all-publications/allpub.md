@@ -133,12 +133,14 @@ journal:
 # - "Shuai Yang, Xiaolei Shang, Dongheng Zhang, Yan Chen, Iterative Interference Mitigation for Automotive Radar, submitted to IEEE TVT"
 # - "Binquan Wang, Dongheng Zhang, Yang Hu, Yan Chen, Cross-Domain WiFi-based Human Activity Recognition Using Few-shot Learning, submitted to TVT"
 - 'Yadong Li, Dongheng Zhang, Ruixu Geng, Zhi Lu, Zhi Wu, Yang Hu, Qibin Sun, Yan Chen*, Towards High-resolution Imaging with Hand-held Millimeter-wave Devices, Communications Engineering（Nature首个工程领域子刊）, vol. 3, Article number:4, 2024'
-- 'Xuecheng Xie, Dongheng Zhang, Yadong Li, Yang Hu, Qibin Sun, Yan Chen, Robust WiFi Respiration Sensing in the Presence of Interfering Individual, to appear in IEEE TMC'
-- 'Shuai Yang, Dongheng Zhang, Yadong Li, Yang Hu, Qibin Sun, Yan Chen, iSense: Enabling Radar Sensing Under Mutual Device Interference, to appear in IEEE TMC'
+- 'Xuecheng Xie, Dongheng Zhang, Yadong Li, Yang Hu, Qibin Sun, Yan Chen, Robust WiFi Respiration Sensing in the Presence of Interfering Individual, IEEE Transactions on Mobile Computing, vol. 23, no. 8, pp. 8447 - 8462, Aug. 2024'
+- 'Shuai Yang, Dongheng Zhang, Yadong Li, Yang Hu, Qibin Sun, Yan Chen, iSense: Enabling Radar Sensing Under Mutual Device Interference, IEEE Transactions on Mobile Computing, vol. 23, no. 11, pp. 10554 - 10569, Nov. 2024'
 - 'Ganlin Zhang, Dongheng Zhang, Hongyu Deng, Yun Wu, Fengquan Zhan, Yan Chen, Practical Passive Indoor Localization with Intelligent Reflecting Surface, to appear in IEEE TMC'
-- 'Jianyang Wang, Dongheng Zhang, Binbin Zhang, Jinbo Chen, Yang Hu, Yan Chen, RF-GymCare: Introducing Respiratory Prior for RF Sensing in Gym Environments, to appear in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)'
+- 'Jianyang Wang, Dongheng Zhang, Binbin Zhang, Jinbo Chen, Yang Hu, Yan Chen, RF-GymCare: Introducing Respiratory Prior for RF Sensing in Gym Environments, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), vol. 8, no. 3, pp. 1-28, Sep. 2024'
 - 'Jiamu Li, Dongheng Zhang, Zhi Wu, Cong Yu, Yadong Li, Qi Chen, Yang Hu, Qibin Sun, Yan Chen, SBRF: A Fine-Grained Radar Signal Generator for Human Sensing, to appear in IEEE TMC'
 - 'Guanzhong Wang, Dongheng Zhang, Tianyu Zhang, Shuai Yang, Qibin Sun, Yan Chen, Learning Domain-Invariant Model for WiFi-based Indoor Localization, to appear in IEEE TMC'
+- 'Wenxuan Li, Dongheng Zhang, Yadong Li, Ruiyuan Song, Yang Hu, Qibin Sun, Yan Chen, SCL-Fall: Reliable Fall Detection Using mmWave Radar with Supervised Contrastive Learning, to appear in IEEE Journal of Selected Areas in Sensors'
+- 'Yadong Li, Dongheng Zhang, Ruixu Geng, Jincheng Wu, Yang Hu, Qibin Sun, Yan Chen, IFNet: Deep Imaging and Focusing for Handheld SAR with Millimeter-wave Signals, to appear in IEEE TMC'
 
   
 book:
