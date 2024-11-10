@@ -141,6 +141,8 @@ journal:
 - 'Guanzhong Wang, Dongheng Zhang, Tianyu Zhang, Shuai Yang, Qibin Sun, Yan Chen, Learning Domain-Invariant Model for WiFi-based Indoor Localization, to appear in IEEE TMC'
 - 'Wenxuan Li, Dongheng Zhang, Yadong Li, Ruiyuan Song, Yang Hu, Qibin Sun, Yan Chen, SCL-Fall: Reliable Fall Detection Using mmWave Radar with Supervised Contrastive Learning, to appear in IEEE Journal of Selected Areas in Sensors'
 - 'Yadong Li, Dongheng Zhang, Ruixu Geng, Jincheng Wu, Yang Hu, Qibin Sun, Yan Chen, IFNet: Deep Imaging and Focusing for Handheld SAR with Millimeter-wave Signals, to appear in IEEE TMC'
+- 'Shuai Yang, Dongheng Zhang, Guanzhong Wang, Jinbo Chen, Zhi Lu, Qibin Sun, Yan Chen, HLoc: Exploiting Height Difference for WiFi Indoor Localization with Single Commercial AP, to appear in IEEE Sensors Journal'
+- 'Ruiyuan Song, Zhi Lu, Dongheng Zhang, Liang Fang, Zhi Wu, Yang Hu, Qibin Sun, Yan Chen, Unleashing the Potential of Self-Supervised RF Learning with Group Shuffle, to appear in IEEE TMC' 
 
   
 book:
