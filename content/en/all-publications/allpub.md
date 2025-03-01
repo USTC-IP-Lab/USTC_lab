@@ -143,7 +143,11 @@ journal:
 - 'Yadong Li, Dongheng Zhang, Ruixu Geng, Jincheng Wu, Yang Hu, Qibin Sun, Yan Chen, IFNet: Deep Imaging and Focusing for Handheld SAR with Millimeter-wave Signals, to appear in IEEE TMC'
 - 'Shuai Yang, Dongheng Zhang, Guanzhong Wang, Jinbo Chen, Zhi Lu, Qibin Sun, Yan Chen, HLoc: Exploiting Height Difference for WiFi Indoor Localization with Single Commercial AP, to appear in IEEE Sensors Journal'
 - 'Ruiyuan Song, Zhi Lu, Dongheng Zhang, Liang Fang, Zhi Wu, Yang Hu, Qibin Sun, Yan Chen, Unleashing the Potential of Self-Supervised RF Learning with Group Shuffle, to appear in IEEE TMC' 
-
+- 'Jiarui Zhang, Ruixu Geng, Xiaolong Du, Yan Chen, Houqiang Li, Yang Hu, Passive Non-Line-of-Sight Imaging With Light Transport Modulation,  IEEE Transactions on Image Processing, vol. 34, pp. 410–424, Dec. 2024'
+- 'Ruixu Geng, Yadong Li, Dongheng Zhang, Jincheng Wu, Yating Gao, Yang Hu, Yan Chen, DREAM-PCD: Deep Reconstruction and Enhancement of mmWave Radar Pointcloud,  IEEE Transactions on Image Processing, vol. 33, pp. 6774–6789, Dec. 2024'
+- 'Rui Zhang, Hanqin Gong, Ruiyuan Song, Yadong Li, Zhi Lu, Dongheng Zhang, Yang Hu, Yan Chen. Through-Wall Human Pose Reconstruction and Action Recognition Using Four-Dimensional Imaging Radar. Journal of Radars, vol. 14, no. 1, pp. 44–61, 2025. doi: 10.12000/JR24132'
+- 'Yan Chen, Rui Zhang, Yadong Li, Ruiyuan Song, Ruixu Geng, Hanqin Gong, Binquan Wang, Dongheng Zhang, Yang Hu. An Overview of Human Pose Estimation Based on Wireless Signals. Journal of Radars, vol. 14, no. 1, pp. 229–247, 2025. doi: 10.12000/JR24189'
+- 'Zhi Wu, Dongheng Zhang, Zixin Shang, Yuqin Yuan, Hanqin Gong, Binquan Wang, Zhi Lu, Yadong, Li, Yang Hu, Qibin Sun, and Yan Chen, Learning-based Tracking-Before-Detect for Unconstrained Indoor Human Tracking using RF signal, to appear in IEEE TMC'
   
 book:
 - name: "Yan Chen, Hong Vicky Zhao, Behavior and Evolutionary Dynamics in Crowd Networks: An Evolutionary Game Approach, (132 pages), Springer, 2020"
@@ -334,4 +338,9 @@ conference:
 - 'Pengfei Yin, Dongheng Zhang, Tianyu Zhang, Shuai Yang, Guanzhong Wang, Yang Hu, Yan Chen. AutoCali: Enhancing AoA-based Indoor Localization through Automatic Phase Calibration. ICASSP, 2024'
 - 'Zhi Wu, Dongheng Zhang, Zixin Shang, Yuqin Yuan, Hanqin Gong, Binquan Wang, Zhi Lu, Yadong Li, Yang Hu, Qibin Sun, Yan Chen. Learning-Based Tracking-before-Detect for RF-Based Unconstrained Indoor Human Tracking. IJCAI, 2024'
 - 'Qian Liang, Yan Chen, Yang Hu, Continual Learning for Remote Physiological Measurement: Minimize Forgetting and Simplify Inference，ECCV, 2024'
+- 'Changwei Wu, Jinbo Chen, Zhi Lu, Haoyu Wang, Dongheng Zhang, Yang Hu, Qibin Sun, and Yan Chen, Signal Quality Aware Deep RF Sensing, WCSP 2024'
+- 'Hong Wan, Ruiyuan Song, Chunyang Xie, Zhi Lu, Qi Chen, Zhi Wu, Dongheng Zhang, Yang Hu, Yan Chen, QRFPose: Query-Based 3D Pose Estimation using Radio Signals, WCSP 2024'
+- 'Yating Gao, Ruixu Geng, Dongheng Zhang, Yang Hu, Hui Lin, Yan Chen, MM-DCDR: A Benchmark of Device Configuration and Data Representation for mmWave-Based Human Sensing, WCSP 2024'
+- 'Xiaolong Du, Ruixu Geng, Jiarui Zhang, Yan Chen, Yang Hu, Passive Non-Line-of-Sight Imaging with Parallel Encoder, ICASSP 2025'
+- 'Rui Zhang, Ruixu Geng, Yadong Li, Ruiyuan Song, Hanqin Gong, Dongheng Zhang, Yang Hu, Yan Chen. RFMamba: Frequency-Aware State Space Model for RF-Based Human-Centric Perception. ICLR, 2025.'
 ---
