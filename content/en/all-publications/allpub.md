@@ -145,9 +145,12 @@ journal:
 - 'Ruiyuan Song, Zhi Lu, Dongheng Zhang, Liang Fang, Zhi Wu, Yang Hu, Qibin Sun, Yan Chen, Unleashing the Potential of Self-Supervised RF Learning with Group Shuffle, to appear in IEEE TMC' 
 - 'Jiarui Zhang, Ruixu Geng, Xiaolong Du, Yan Chen, Houqiang Li, Yang Hu, Passive Non-Line-of-Sight Imaging With Light Transport Modulation,  IEEE Transactions on Image Processing, vol. 34, pp. 410–424, Dec. 2024'
 - 'Ruixu Geng, Yadong Li, Dongheng Zhang, Jincheng Wu, Yating Gao, Yang Hu, Yan Chen, DREAM-PCD: Deep Reconstruction and Enhancement of mmWave Radar Pointcloud,  IEEE Transactions on Image Processing, vol. 33, pp. 6774–6789, Dec. 2024'
+- 'Bin-Bin Zhang, Dongheng Zhang, Yadong Li, Zhi Lu, Jinbo Chen, Haoyu Wang, Fang Zhou, Yu Pu, Yang Hu, Li-Kun Ma, Qibin Sun, Yan Chen, Monitoring Long-term Cardiac Activity with Contactless Radio Frequency Signals, Nature Communications, 15:10598, Dec. 2024'
 - 'Rui Zhang, Hanqin Gong, Ruiyuan Song, Yadong Li, Zhi Lu, Dongheng Zhang, Yang Hu, Yan Chen. Through-Wall Human Pose Reconstruction and Action Recognition Using Four-Dimensional Imaging Radar. Journal of Radars, vol. 14, no. 1, pp. 44–61, 2025. doi: 10.12000/JR24132'
 - 'Yan Chen, Rui Zhang, Yadong Li, Ruiyuan Song, Ruixu Geng, Hanqin Gong, Binquan Wang, Dongheng Zhang, Yang Hu. An Overview of Human Pose Estimation Based on Wireless Signals. Journal of Radars, vol. 14, no. 1, pp. 229–247, 2025. doi: 10.12000/JR24189'
 - 'Zhi Wu, Dongheng Zhang, Zixin Shang, Yuqin Yuan, Hanqin Gong, Binquan Wang, Zhi Lu, Yadong, Li, Yang Hu, Qibin Sun, and Yan Chen, Learning-based Tracking-Before-Detect for Unconstrained Indoor Human Tracking using RF signal, to appear in IEEE TMC'
+- 'Haoyu Zhang, Dongheng Zhang, Ruiyuan Song, Zhi Wu, Jinbo Chen, Liang Fang, Zhi Lu, Yang Hu, Hui Lin, Yan Chen, UMIMO: Universal Unsupervised Learning for mmWave Radar Sensing with MIMO Array Synthesis, to appear in IEEE TMC'
+- 'Jinbo Chen, Dongheng Zhang, Haoyu Wang, Ganlin Zhang, Qibin Sun, Yan Chen, Co-Sense: Exploiting Cooperative Dark Pixels in Radio Sensing for Non-stationary Target, to appear in IEEE TMC'
   
 book:
 - name: "Yan Chen, Hong Vicky Zhao, Behavior and Evolutionary Dynamics in Crowd Networks: An Evolutionary Game Approach, (132 pages), Springer, 2020"
