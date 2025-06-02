@@ -143,7 +143,6 @@ journal:
 - 'Yadong Li, Dongheng Zhang, Ruixu Geng, Jincheng Wu, Yang Hu, Qibin Sun, Yan Chen, IFNet: Deep Imaging and Focusing for Handheld SAR with Millimeter-wave Signals, to appear in IEEE TMC'
 - 'Shuai Yang, Dongheng Zhang, Guanzhong Wang, Jinbo Chen, Zhi Lu, Qibin Sun, Yan Chen, HLoc: Exploiting Height Difference for WiFi Indoor Localization with Single Commercial AP, to appear in IEEE Sensors Journal'
 - 'Ruiyuan Song, Zhi Lu, Dongheng Zhang, Liang Fang, Zhi Wu, Yang Hu, Qibin Sun, Yan Chen, Unleashing the Potential of Self-Supervised RF Learning with Group Shuffle, to appear in IEEE TMC' 
-- 'Jiarui Zhang, Ruixu Geng, Xiaolong Du, Yan Chen, Houqiang Li, Yang Hu, Passive Non-Line-of-Sight Imaging With Light Transport Modulation,  IEEE Transactions on Image Processing, vol. 34, pp. 410–424, Dec. 2024'
 - 'Ruixu Geng, Yadong Li, Dongheng Zhang, Jincheng Wu, Yating Gao, Yang Hu, Yan Chen, DREAM-PCD: Deep Reconstruction and Enhancement of mmWave Radar Pointcloud,  IEEE Transactions on Image Processing, vol. 33, pp. 6774–6789, Dec. 2024'
 - 'Bin-Bin Zhang, Dongheng Zhang, Yadong Li, Zhi Lu, Jinbo Chen, Haoyu Wang, Fang Zhou, Yu Pu, Yang Hu, Li-Kun Ma, Qibin Sun, Yan Chen, Monitoring Long-term Cardiac Activity with Contactless Radio Frequency Signals, Nature Communications, 15:10598, Dec. 2024'
 - 'Jiarui Zhang, Ruixu Geng, Xiaolong Du, Yan Chen, Houqiang Li, Yang Hu, Passive Non-Line-of-Sight Imaging With Light Transport Modulation,  IEEE Transactions on Image Processing, vol. 34, pp. 410–424, Dec. 2024'
