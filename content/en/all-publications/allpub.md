@@ -151,6 +151,7 @@ journal:
 - 'Zhi Wu, Dongheng Zhang, Zixin Shang, Yuqin Yuan, Hanqin Gong, Binquan Wang, Zhi Lu, Yadong, Li, Yang Hu, Qibin Sun, and Yan Chen, Learning-based Tracking-Before-Detect for Unconstrained Indoor Human Tracking using RF signal, to appear in IEEE TMC'
 - 'Haoyu Zhang, Dongheng Zhang, Ruiyuan Song, Zhi Wu, Jinbo Chen, Liang Fang, Zhi Lu, Yang Hu, Hui Lin, Yan Chen, UMIMO: Universal Unsupervised Learning for mmWave Radar Sensing with MIMO Array Synthesis, to appear in IEEE TMC'
 - 'Jinbo Chen, Dongheng Zhang, Haoyu Wang, Ganlin Zhang, Qibin Sun, Yan Chen, Co-Sense: Exploiting Cooperative Dark Pixels in Radio Sensing for Non-stationary Target, to appear in IEEE TMC'
+- 'Yuqin Yuan, Jinbo Chen, Dongheng Zhang, Ruixu Geng, Hanqin Gong, Guixin Xu, Yu Pu, Zhi Lu, Yang Hu, Dong Zhang, Likun Ma, Qibin Sun & Yan Chen, Atrial fibrillation detection via contactless radio monitoring and knowledge transfer, Nature Communications, 16, 4317 (2025), May. 2025'
 
 
   

@@ -17,7 +17,8 @@ organizations:
 bio: 
 
 interests:
-- Multi-target tracking
+- Wireless Sensing
+- Digital Health
 
 education:
   courses:
