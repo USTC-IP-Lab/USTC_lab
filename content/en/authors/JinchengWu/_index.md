@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Alumni
 ---
 
 Hello! This is Jincheng Wu (吴锦程). I am a M.S. student at at the School of Cyberspace Security, University of  Science and Technology of China (USTC).I received B.S. degree from the Shandong University (SDU) in 2022. I am supervised by Prof. Yan Chen. My current research interests include Deep Learning, Mutimodel Machine Learning.

@@ -3,6 +3,8 @@
 title: Yating Gao
 weight: 93
 
+authors:
+- Alumni
 
 # Is this the primary user of the site?
 superuser: false
@@ -82,7 +84,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Alumni
 ---
 
 Hello! This is Yating Gao(高雅婷). I have received B.S. from Dalian University of Technology. My current research interests include wireless sensing and millimeter wave radar.

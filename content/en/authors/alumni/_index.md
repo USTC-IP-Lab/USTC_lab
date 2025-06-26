@@ -1,6 +1,34 @@
 ---
 # Display alumni information
 information:
+- name: Changwei Wu
+  year: 2025
+  dgree: Master 
+  now: Insta360
+- name: Gaohan Ye
+  year: 2025
+  dgree: Master 
+  now: People's Government of Guangdong Province
+- name: Liang Fang
+  year: 2025
+  dgree: Master 
+  now: People's Government of Hunan Province
+- name: Jinchen Wu
+  year: 2025
+  dgree: Master 
+  now: ByteDance
+- name: Hong Wan
+  year: 2025
+  dgree: Master 
+  now: HUAWEI
+- name: Yating Gao
+  year: 2025
+  dgree: Master 
+  now: University of Osaka
+- name: Zhi Wu
+  year: 2025
+  dgree: Master 
+  now: China Mobile Communications Group
 - name: You Ran
   year: 2024
   dgree: Master 
