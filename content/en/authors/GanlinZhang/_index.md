@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ph.D. Students
+- Alumni
 ---
 
 Hello! This is Ganlin Zhang(张淦霖).   I am a Ph.D student at the School of Cyberspace Science and Technology,  University of Science and Technology of China (USTC). I received B.S. degree from the University of Science and Technology of China, Hefei, China, in 2019. I am supervised by Prof. Yan Chen. My current research interests include wireless sensing, reinforcement learning, and reconfigurable intelligent surfaces.

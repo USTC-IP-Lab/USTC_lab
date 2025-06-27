@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Alumni
 ---
 
 Jiarui Zhang(章嘉芮) received bachelor degree from Northeastern University, ShenYang, China, in 2022. She is currently pursuing the Master degree at the School of Information Science and Technology, University of Science and Technology of China, Hefei, China. She is supervised by Prof. Yang Hu. Her current research interests mainly include Non-line-of-sight (NLOS) Imaging, Computer Vision and Deep Learning.

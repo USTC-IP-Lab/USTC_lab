@@ -1,6 +1,10 @@
 ---
 # Display alumni information
 information:
+- name: Jiarui Zhang
+  year: 2025
+  dgree: Master 
+  now: Meituan
 - name: Changwei Wu
   year: 2025
   dgree: Master 
@@ -25,9 +29,17 @@ information:
   year: 2025
   dgree: Master 
   now: University of Osaka
+- name: Ganlin Zhang
+  year: 2025
+  dgree: PhD 
+  now: China Mobile Communications Group
+- name: Ruiyuan Song
+  year: 2025
+  dgree: PhD 
+  now: UESTC
 - name: Zhi Wu
   year: 2025
-  dgree: Master 
+  dgree: PhD 
   now: China Mobile Communications Group
 - name: You Ran
   year: 2024
