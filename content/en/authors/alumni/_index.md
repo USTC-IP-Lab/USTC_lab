@@ -17,7 +17,7 @@ information:
   year: 2025
   dgree: Master 
   now: People's Government of Hunan Province
-- name: Jinchen Wu
+- name: Jincheng Wu
   year: 2025
   dgree: Master 
   now: ByteDance
