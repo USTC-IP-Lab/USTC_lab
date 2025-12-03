@@ -149,11 +149,11 @@ journal:
 - 'Rui Zhang, Hanqin Gong, Ruiyuan Song, Yadong Li, Zhi Lu, Dongheng Zhang, Yang Hu, Yan Chen. Through-Wall Human Pose Reconstruction and Action Recognition Using Four-Dimensional Imaging Radar. Journal of Radars, vol. 14, no. 1, pp. 44–61, 2025. doi: 10.12000/JR24132'
 - 'Yan Chen, Rui Zhang, Yadong Li, Ruiyuan Song, Ruixu Geng, Hanqin Gong, Binquan Wang, Dongheng Zhang, Yang Hu. An Overview of Human Pose Estimation Based on Wireless Signals. Journal of Radars, vol. 14, no. 1, pp. 229–247, 2025. doi: 10.12000/JR24189'
 - 'Zhi Wu, Dongheng Zhang, Zixin Shang, Yuqin Yuan, Hanqin Gong, Binquan Wang, Zhi Lu, Yadong, Li, Yang Hu, Qibin Sun, and Yan Chen, Learning-based Tracking-Before-Detect for Unconstrained Indoor Human Tracking using RF signal, IEEE Transactions on Mobile Computing, vol. 24, no. 6, pp. 4777 - 4793, Jun. 2025'
-- 'Haoyu Zhang, Dongheng Zhang, Ruiyuan Song, Zhi Wu, Jinbo Chen, Liang Fang, Zhi Lu, Yang Hu, Hui Lin, Yan Chen, UMIMO: Universal Unsupervised Learning for mmWave Radar Sensing with MIMO Array Synthesis, to appear in IEEE TMC'
+- 'Haoyu Zhang, Dongheng Zhang, Ruiyuan Song, Zhi Wu, Jinbo Chen, Liang Fang, Zhi Lu, Yang Hu, Hui Lin, Yan Chen, UMIMO: Universal Unsupervised Learning for mmWave Radar Sensing with MIMO Array Synthesis, IEEE Transactions on Mobile Computing, vol. 24, no. 8, pp. 7042 - 7058, Aug. 2025'
 - 'Jinbo Chen, Dongheng Zhang, Haoyu Wang, Ganlin Zhang, Qibin Sun, Yan Chen, Co-Sense: Exploiting Cooperative Dark Pixels in Radio Sensing for Non-stationary Target, IEEE Transactions on Mobile Computing, vol. 24, no. 4, pp. 2166 - 2180, Apr. 2025'
 - 'Yuqin Yuan, Jinbo Chen, Dongheng Zhang, Ruixu Geng, Hanqin Gong, Guixin Xu, Yu Pu, Zhi Lu, Yang Hu, Dong Zhang, Likun Ma, Qibin Sun & Yan Chen, Atrial fibrillation detection via contactless radio monitoring and knowledge transfer, Nature Communications, 16, 4317 (2025), May. 2025'
 - 'Hanqin Gong, Jinbo Chen, Guixin Xu, Jianwen Tong, Yadong Li,  Dongheng Zhang, Yang Hu, Yan Chen, OSense: Omni-Directional Heartbeat Sensing With Radio Signal, IEEE Internet of Things Journal, vol. 12, no. 13, pp. 25269 - 25285, Jul. 2025'
-
+- 'Rui Zhang, Yadong Li, Ruiyuan Song, Hanqin Gong, Ruixu Geng, Binquan Wang, Dongheng Zhang, Yang Hu, Yan Chen. UniTHP: Advancing Unified Representation Learning for Through-Wall Human-Centric Perception, to appear in IEEE TMM'
 
   
 book:
